@@ -3,7 +3,7 @@
 A simple React app built with React & React Router Dom.
 
 ## Live Link
-Hosted in Netlify -> [nextPage](https://proreader.netlify.app/)
+Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
 
 
 ## Starter Template
